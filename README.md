@@ -15,7 +15,7 @@ and then loaded by lk2nd.
 ## Supported SoCs
 - MSM8916
 - MSM8953 (SDM450,SDM625)
-- MSM8952 (MSM8940)
+- MSM8952 (MSM8937,MSM8940)
 
 ### Supported devices
 - Motorola Moto G4 Play (harpia)
@@ -30,6 +30,7 @@ and then loaded by lk2nd.
 - Xiaomi Redmi 4X - santoni
 - Xiaomi Redmi Note 4X Snapdragon - mido
 - Xiaomi Redmi Note 5 / 5 Plus Snapdragon - vince
+- Asus Zenfone Max M1 - X00P
 
 ## Installation
 1. Download `lk2nd.img` (available in [Releases](https://github.com/msm8916-mainline/lk2nd/releases)(MSM8916))
