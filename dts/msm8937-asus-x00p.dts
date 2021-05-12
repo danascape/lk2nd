@@ -8,6 +8,7 @@
 	// This is used by the bootloader to find the correct DTB 
 	qcom,msm-id = <0x126 0x00>;
 	qcom,board-id= <0x08 0x00>;
+	qcom,pmic-id = <0x10019 0x20040 0x00 0x00>;
 
 	model = "Asus Zenfone Max M1(X00P)";
 	compatible = "asus,x00p", "qcom,msm8937-mtp", "qcom,msm8937", "qcom,mtp", "lk2nd,device";
