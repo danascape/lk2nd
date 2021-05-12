@@ -2,7 +2,7 @@
 
 /dts-v1/;
 
-/include/ "msm8937.dtsi"
+/include/ "msm8952.dtsi"
 
 / {
 	// This is used by the bootloader to find the correct DTB 
