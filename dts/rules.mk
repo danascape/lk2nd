@@ -57,5 +57,5 @@ DTBS += \
 endif
 ifeq ($(PROJECT), land-secondary)
 DTBS += \
-	$(LOCAL_DIR)/msm8937-xiaomi-land.dtb \
+	$(LOCAL_DIR)/msm8937-xiaomi-land.dtb
 endif

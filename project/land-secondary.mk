@@ -13,6 +13,7 @@ include $(LOCAL_DIR)/msm8952.mk
 #  maximum verbosity
 BOARD_NAME := land-secondary
 CFLAGS += -Wno-error
+CFLAGS += -DMIPI_FB_ADDR=0x8dd01000
 DEBUG := 2
 DEFINES += DISABLE_CRYPTO=1
 DEFINES += LK_LOG_BUF_SIZE=16384
